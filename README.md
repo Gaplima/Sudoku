@@ -1,5 +1,5 @@
 # Sudoku
-Segundo projeto para a disciplina 'Linguagem de Programação I', desenvolvido em Abril de 2021. Universidade Federal do Rio Grande do Norte
+Primeiro projeto para a disciplina 'Linguagem de Programação I', desenvolvido em Março de 2021. Universidade Federal do Rio Grande do Norte
 
 Linguagem de Programação I - T01
 Projeto de Programação #1
