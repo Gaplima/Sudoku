@@ -2,14 +2,19 @@
  1st Project for the 'Programming Language I' class, made in March 2021
 
 Linguagem de Programação I - T01
+
 Projeto de Programação #1
 
 Aluno: Gabriel Alves Pinheiro Lima
+
 Professor: Selan Rodrigues dos Santos
 
 Comando de compilação: gpp -Wall main.cpp -o main
+
 Comando de execução: ./main
+
 Link do git: https://github.com/Gaplima/Sudoku
+
 
 Sudoku Interativo
 
