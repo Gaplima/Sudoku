@@ -12,7 +12,6 @@ Professor: Selan Rodrigues dos Santos
 Comando de compilação: gpp -Wall main.cpp -o main
 
 Comando de execução: ./main
-
 Link do git: https://github.com/Gaplima/Sudoku
 
 
