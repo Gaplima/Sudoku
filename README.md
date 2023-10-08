@@ -1,5 +1,5 @@
 # Sudoku
-Primeiro projeto para a disciplina 'Linguagem de Programação I', desenvolvido em Março de 2021. Universidade Federal do Rio Grande do Norte
+Primeiro projeto para a disciplina **Linguagem de Programação I**, desenvolvido em Março de 2021. Universidade Federal do Rio Grande do Norte
 
 Linguagem de Programação I - T01
 Projeto de Programação #1
@@ -7,9 +7,9 @@ Projeto de Programação #1
 Aluno: Gabriel Alves Pinheiro Lima
 Professor: Selan Rodrigues dos Santos
 
-Comando de compilação: gpp -Wall main.cpp -o main
+Comando de compilação: `gpp -Wall main.cpp -o main`
 Comando de execução: ./main
-Link do git: https://github.com/Gaplima/Sudoku
+[Link do git](https://github.com/Gaplima/Sudoku)
 
 Sudoku Interativo
 
